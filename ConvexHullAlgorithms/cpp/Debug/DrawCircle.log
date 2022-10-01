@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DrawCircle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(36,17): warning C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(187,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(252,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(268,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(297,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(335,81): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(391,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(393,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(425,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(427,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(607,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(607,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(609,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(609,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(623,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(623,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(803,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(803,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(804,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(804,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(838,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(838,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(839,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(839,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(852,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(852,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(853,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(853,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(877,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(877,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(878,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(878,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(891,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(891,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(892,50): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\main.cpp(892,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DrawCircle.vcxproj -> C:\Users\moham\Desktop\CPP Collision Detection\WindowsExamples\ConvexHullAlgorithms\cpp\Debug\ConvexHullAlgorithms.exe
